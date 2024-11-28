@@ -12,7 +12,7 @@ This folder provides simple examples to demonstrate factory calibration and basi
 
 The project consists of 3 files:
 - **tmf8806_read_cal_data.py** - CircuitPython script to configure TMF8806, start factory calibration and print out calibration data
-- **tmf8806_read_xtalk.py** � CircuitPython script to perform a series of crosstalk measurements.  The minimum, maximum and average crosstalk values are printed to the shell window
+- **tmf8806_read_xtalk.py** - CircuitPython script to perform a series of crosstalk measurements.  The minimum, maximum and average crosstalk values are printed to the shell window
 - **tmf8806_basic_example.py** - CircuitPython script to configure TMF8806, load factory calibration, start measurements and print out TID, Distance and confidence
 
 ## Factory calibration
